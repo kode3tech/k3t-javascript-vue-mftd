@@ -3,7 +3,7 @@ kind: Template
 metadata:
   name: k3t-javascript-vue-mftd
   title: Javascript Vue Microfrontend
-  description: 
+  description: Criar uma single page application usando VueJs microfrontend
   tags:
     - javascript
     - microfrontend
@@ -14,7 +14,7 @@ metadata:
     - isomophic
     - single spa
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: website
   parameters:
     - title: Provide some simple information
